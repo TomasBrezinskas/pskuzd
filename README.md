@@ -1,0 +1,1 @@
+Šis projektas yra Tomo Brežinsko PSK savarankiškų laboratorinių darbų apsigynimui.
